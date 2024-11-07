@@ -14,6 +14,7 @@ Python and Visual components tool
 
 The expectation or the mean of a discrete random variable is a weighted average of all possible
 values of the random variable. The weights are the probabilities associated with the corresponding values. 
+
 It is calculated as,
 
 ![image](https://user-images.githubusercontent.com/103921593/192938463-e34177f4-f188-48a0-bda2-8f6d1d660ed2.png)
